@@ -2,7 +2,7 @@
     background-color: rgb(236, 150, 190);
     color: rgb(0, 0, 0);
 }
-#caixa-flex{
+.{
     display: flex;
     flex-direction: column;
 }
