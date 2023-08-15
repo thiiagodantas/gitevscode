@@ -25,3 +25,12 @@ h1{
     text-align: center;
     font-family: cursive;
 }
+
+.Principal{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+
